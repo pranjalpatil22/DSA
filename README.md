@@ -98,3 +98,8 @@ This repository includes various algorithms and data structures such as:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/pranjal-patil-851111285/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/pranjal_patil/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/pranjalp08c1/)
+
+---
+
+📈 _Happy Coding!_ ✨
+
